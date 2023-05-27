@@ -13,4 +13,4 @@ backend/config
 backend/uploads
 backend/node_modules
 frontend/.env
-frontend/server.js
+frontend/server.js 
