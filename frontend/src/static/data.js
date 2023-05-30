@@ -194,7 +194,7 @@ export const navItems = [
       title: "Men's Clothing",
       subTitle: "",
       image_Url:
-        "https://lh3.googleusercontent.com/LoRWlBXo2nwuM7e6d9jSAtx5q28AIjrYkkomRjqbHsYn8v53s2Z5p1E615MG4faKADXVJ19Q_sNWFjjc8Zposx92Y_fPDQ7Sl6eac7JOD0RLcPFIH3krog5Qp1VLJiMAl-0JJyR0mv5QAJVG0vs2ovDt_DhokXyaXP1m99dnohQy0-0Fuon75zhVucKe0H8Od_RD1kqa8EVVN37-F0vdJhQIeIRHBALXy3QmEzcQTHGZ3QFtM5vmRDS8otNLbwVVtB7wdFM-UTMwdTFG47H1NBYSvjaKwRuW2JDfkXpJ_k818TMfddJbjnXdXWD3iuGwiIZLqkVwjij56PD_2R6U9TD7mAC2HUevywTH8h24f-lAr1Qa63y9O1-6_zyhIwBvMXuoMxGCxMAPUKDJoIIDn7jE1B-aeVmAhjvZ0-8cy8k4riQ3z1biv-Ntm82e3g2qSYOgQzilyfaqXxKIqnZkjm_Ombtn4L6A1ZY8eVVRK7eTpO-8tggnKeAMJOfjTCSrV7VAHgYLpxXKpeQRRpScHQQ_dMLLjyqFjAYuXLO0VWi00SRPoS0gv7TjbSKV_UtyvDwShQbsHbUVny1cdAWOgCnyC2DkTVs9yN00Zg5XZuDDU5zNsUiYeTvZdl2T7fUrDeQXYlRXqngI4pr1ZYvEua9GbsfvZ3LQIitHTCLLaFBSt3wBX3HPhCUpu9yi5LHOLJtSo2JnxU9BLWye4iY-6iAdX0BPRXkKhC_7tcYZI7MAlKOKXV0PVVADr5ly0qECzNXDi1M0KqCg7NEbNWenulxwQQRh2LXYQwHkGLKTwQqG2cju1WbwXfaJMZEo8ZOgKJkCSw906Fmyjdt7qQK_KvZ32-ES9EsyBBW7zsvDjQ-10pxJZIgsdD-oQgcQZ15YVRPyN_e5lEtbCaTahA7yErmchYlc69TO7wdxQDwAqs7A1NMy=w320-h320-s-no?authuser=0",
+        "https://images.pexels.com/photos/447570/pexels-photo-447570.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 2,

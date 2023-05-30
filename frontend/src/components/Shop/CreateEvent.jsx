@@ -24,12 +24,14 @@ const CreateEvent = () => {
  const [endDate,setEndDate] = useState(null);
 
  const handleStartDateChange = (e) => {
-    const startDate = new Date(e.target.value);
-    const minEndDate = new Date(startDate.getTime() + 3 * 24 * 60 * 60 * 1000);
-    setStartDate(startDate);
-    setEndDate(null);
-    document.getElementById("end-date").min = minEndDate.toISOString.slice(0,10);
- }
+  const startDate = new Date(e.target.value);
+  const minEndDate = new Date(startDate.getTime() + 3 * 24 * 60 * 60 * 1000);
+  setStartDate(startDate);
+  setEndDate(null);
+  const minEndDateISOString = minEndDate.toISOString().slice(0, 10);
+  document.getElementById("end-date").min = minEndDateISOString;
+};
+
 
  const handleEndDateChange = (e) => {
     const endDate = new Date(e.target.value);
